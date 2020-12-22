@@ -1,16 +1,15 @@
-### Hi there 👋
+[![](https://count.getloli.com/get/@CHHHAN)](https://count.getloli.com)
 
-<!--
-**CHHHAN/CHHHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Platform&Tools
+[![](https://img.shields.io/badge/Ubuntu-arm64-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://chomin.ink/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-React.js-282c34?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
+[![](https://img.shields.io/badge/-Golang-00acd7?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Blog & WeChat
+[![](https://img.shields.io/badge/-CHHHAN%20BLOG-4285F4?style=flat-square&logo=google%20chrome&logoColor=ffffff)](https://chomin.ink/)
+[![](https://img.shields.io/badge/-CHHHAN%E5%A4%87%E5%BF%98%E5%BD%95-7BB32E?style=flat-square&logo=wechat&logoColor=ffffff)]
