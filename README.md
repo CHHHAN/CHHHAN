@@ -12,4 +12,4 @@
 
 #### Blog & WeChat
 [![](https://img.shields.io/badge/-CHHHAN%20BLOG-4285F4?style=flat-square&logo=google%20chrome&logoColor=ffffff)](https://chomin.ink/)
-[![](https://img.shields.io/badge/-CHHHAN%E5%A4%87%E5%BF%98%E5%BD%95-7BB32E?style=flat-square&logo=wechat&logoColor=ffffff)]
+![](https://img.shields.io/badge/-CHHHAN%E5%A4%87%E5%BF%98%E5%BD%95-7BB32E?style=flat-square&logo=wechat&logoColor=ffffff)
